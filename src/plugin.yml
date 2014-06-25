@@ -1,6 +1,0 @@
-name: ToxicShop
-description: ToxicShops! Yay!
-version: 1.0
-main: io.github.toxicbyte.toxicShop.toxicShop
-commands:
-  shop:
